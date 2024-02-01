@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "OpenLTTO Sensor Module")
+    (rev "1.0")
+    (company "Paul Mumby")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x05" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 7.62 0)
